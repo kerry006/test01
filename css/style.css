@@ -8,4 +8,5 @@ body{
     }
 ul{list-style: none;} 
 ul li{height: 30px;}
-ul li.on{color:#f00;}   
+ul li.on{color:#f00;}  
+a{display: inline; text-decoration: none;} 
